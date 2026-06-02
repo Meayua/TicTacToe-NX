@@ -1,0 +1,12 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Switch shit
+*.nacp
+*.nro
+*.nso
+*.pfs0
+build
